@@ -1,0 +1,5 @@
+optimization_level,depth,gate_count,cx_count,unitary_equivalent
+0,46,74,9,True
+1,38,59,9,True
+2,13,18,2,True
+3,13,18,2,True
