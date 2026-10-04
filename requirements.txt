@@ -1,0 +1,2 @@
+# Installs the local project and its notebook tools; direct versions are in pyproject.toml.
+-e .[notebooks]
